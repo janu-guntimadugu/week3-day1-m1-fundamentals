@@ -29,3 +29,17 @@ Tasks Completed
 Author
 
 Janu Katriya
+
+# Bonus Challenge
+
+Created a Salary Prediction model using Linear Regression.
+
+Features:
+- Experience
+- Education
+- Certifications
+
+Label:
+- Salary
+
+The model was trained on 20 records and used to predict the salary of a new employee.
