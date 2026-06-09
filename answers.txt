@@ -1,0 +1,23 @@
+1. What is the slope?
+
+The slope is represented by the coefficients of the Linear Regression model. It shows how much the predicted marks change when a feature increases by one unit.
+
+2. What is the intercept?
+
+The intercept is the starting value of the prediction line when all feature values are zero.
+
+3. What do slope and intercept mean?
+
+They describe the relationship between the input features and the target variable. Positive coefficients indicate that marks increase as the feature value increases.
+
+4. What is MAE?
+
+Mean Absolute Error (MAE) measures the average difference between actual values and predicted values. Lower MAE indicates better model accuracy.
+
+5. What is R² Score?
+
+R² Score measures how well the model explains the variation in the data. A value closer to 1 indicates a better fit.
+
+6. Is the model performing well?
+
+Yes. If the MAE is low and the R² Score is close to 1, the model is performing well.
