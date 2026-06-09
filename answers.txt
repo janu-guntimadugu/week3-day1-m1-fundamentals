@@ -21,3 +21,7 @@ R² Score measures how well the model explains the variation in the data. A valu
 6. Is the model performing well?
 
 Yes. If the MAE is low and the R² Score is close to 1, the model is performing well.
+
+7. Which student had the highest prediction error?
+
+The student with Actual Marks = 35 had the highest prediction error. The model predicted 31.243984 marks, resulting in a difference of 3.756016 marks.
